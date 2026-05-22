@@ -5,7 +5,7 @@
 ![Stack](https://img.shields.io/badge/Vue_3-Composition_API-42b883?style=flat-square&logo=vue.js)
 ![Stack](https://img.shields.io/badge/Express.js-Node.js-339933?style=flat-square&logo=node.js)
 ![Stack](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![License](https://img.shields.io/badge/licence-MIT-blue?style=flat-square)
+
 
 ---
 ## 📸 Aperçu
@@ -348,10 +348,5 @@ Dark mode exclusif, CSS vanilla, aucun framework CSS.
 
 ---
 
-## 📄 Licence
-
-MIT — libre d'utilisation, de modification et de distribution.
-
----
 
 <p align="center">Fait avec ☕ et beaucoup de pronostics ratés</p>
